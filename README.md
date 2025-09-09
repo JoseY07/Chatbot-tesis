@@ -1,4 +1,4 @@
-# Chatbot PGN – Guatemala
+# Chatbot – Guatemala
 Proyecto académico y de referencia para la Procuraduría General de la Nación (PGN).
 Implementa un chatbot ciudadano en **Python (FastAPI)** con integración en **WordPress**.
 
